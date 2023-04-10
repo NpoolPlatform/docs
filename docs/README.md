@@ -12,7 +12,7 @@
 
 ### Quick Navigation
 
-- [Getting started](guide/user-guide/introduction.md)
-- [Product list](examples/README.md)
-- [Developer Guide for SasS](guide/occa/introduction.md)
-- [Developer Guide for Web3Eye](guide/occa/introduction.md)
+- [Docs Usage](guide/user-guide/usageofdocs.md)
+- [Product list](products.md)
+- [Developer Guide for SasS](sass/README.md)
+- [Developer Guide for Web3Eye](web3eye/README.md)
