@@ -20,6 +20,7 @@
 
 ## 编辑工具
 - windows用户在clone仓库后可使用Sublime Text或vscode编辑文档
+  - Sublime Text需要安装MarkdownPreview插件
 - linux用户可在clone仓库后通过docsify编译访问```http://localhost:3000```进行预览
 ```bash
 npm i docsify-cli -g
