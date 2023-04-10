@@ -15,7 +15,7 @@
 - 文档内容需要使用markdown语法
 - 目录规范
   - 设计文档存放在对应产品的designs目录(如```sass/designs```)
-  - 服务说明文档存放在对应产品的services目录(如```sass/service```)
+  - 服务说明文档存放在对应产品的services目录(如```sass/services```)
   - 添加新增文档访问链接至对应目录的sidebar(如```sass/_sidebar.md```)
 
 ## 编辑工具
